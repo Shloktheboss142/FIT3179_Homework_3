@@ -1,98 +1,246 @@
-﻿Entity,Code,Year,ElectricityGeneration
-Algeria,DZA,2022,91.64279
-Argentina,ARG,2022,143.67
-Australia,AUS,2022,251.68
-Austria,AUT,2022,64.69
-Azerbaijan,AZE,2022,29.0326
-Bangladesh,BGD,2022,85.23
-Belarus,BLR,2022,39.64126
-Belgium,BEL,2022,94.58
-Bolivia,BOL,2022,11.27
-Bosnia and Herzegovina,BIH,2022,16.24
-Brazil,BRA,2022,680.88
-Bulgaria,BGR,2022,50.58
-Burundi,BDI,2022,0.36
-Canada,CAN,2022,638.42
-Chile,CHL,2022,83.22
-China,CHN,2022,8839.13
-Colombia,COL,2022,84.52
-Costa Rica,CRI,2022,12.63
-Croatia,HRV,2022,14.12
-Cyprus,CYP,2022,5.26
-Czechia,CZE,2022,85.11
-Denmark,DNK,2022,34.42
-Ecuador,ECU,2022,33.12
-Egypt,EGY,2022,208.09
-El Salvador,SLV,2022,7.62
-Estonia,EST,2022,8.34
-Finland,FIN,2022,72.99
-France,FRA,2022,469.48
-Georgia,GEO,2022,14.24
-Germany,DEU,2022,582.28
-Greece,GRC,2022,52.44
-Hong Kong,HKG,2022,36.233456
-Hungary,HUN,2022,35.52
-Iceland,ISL,2022,20.108475
-India,IND,2022,1837.95
-Indonesia,IDN,2022,333.54
-Iran,IRN,2022,370.81
-Iraq,IRQ,2022,117.236595
-Ireland,IRL,2022,33.61
-Israel,ISR,2022,76.47676
-Italy,ITA,2022,278.86
-Japan,JPN,2022,966.72
-Kazakhstan,KAZ,2022,112.78
-Kenya,KEN,2022,12.33
-Kosovo,OWID_KOS,2022,10.81
-Kuwait,KWT,2022,82.95694
-Latvia,LVA,2022,5.06
-Lithuania,LTU,2022,4.17
-Luxembourg,LUX,2022,1.13
-Malaysia,MYS,2022,180.51
-Malta,MLT,2022,2
-Mexico,MEX,2022,349.5
-Moldova,MDA,2022,5.38
-Mongolia,MNG,2022,7.27
-Montenegro,MNE,2022,3.23
-Morocco,MAR,2022,41.155945
-Netherlands,NLD,2022,120.89
-New Zealand,NZL,2022,44.1
-Nigeria,NGA,2022,32.1
-North Macedonia,MKD,2022,6.99
-Norway,NOR,2022,152.68
-Oman,OMN,2022,37.09
-Pakistan,PAK,2022,152.17
-Peru,PER,2022,60.27
-Philippines,PHL,2022,112.74
-Poland,POL,2022,179.3
-Portugal,PRT,2022,46.96
-Qatar,QAT,2022,45.9
-Romania,ROU,2022,56.3
-Russia,RUS,2022,1114.93
-Saudi Arabia,SAU,2022,401.58832
-Serbia,SRB,2022,36.18
-Singapore,SGP,2022,54.79
-Slovakia,SVK,2022,26.73
-Slovenia,SVN,2022,13.27
-South Africa,ZAF,2022,213.6
-South America,,2022,1256.9778
-South Korea,KOR,2022,606.51
-South and Central America (EI),,2022,1410.4108
-Spain,ESP,2022,284.81
-Sri Lanka,LKA,2022,16.923082
-Sweden,SWE,2022,171.68
-Switzerland,CHE,2022,62.25
-Taiwan,TWN,2022,285.08
-Thailand,THA,2022,190.88
-Trinidad and Tobago,TTO,2022,10.165218
-Tunisia,TUN,2022,20.28
-Turkey,TUR,2022,326.09
-Turkmenistan,TKM,2022,31.524
-Ukraine,UKR,2022,111.94
-United Arab Emirates,ARE,2022,154.74054
-United Kingdom,GBR,2022,324.89
-United States of America,USA,2022,4296.88
-Uruguay,URY,2022,14.72
-Uzbekistan,UZB,2022,70.9954
-Venezuela,VEN,2022,82.824066
-Vietnam,VNM,2022,263.33
+﻿Entity,ElectricityGeneration,,,
+Afghanistan,0,,,
+Albania,0,,,
+Algeria,91.64279,,,
+American Samoa,0,,,
+Andorra,0,,,
+Angola,0,,,
+Anguilla,0,,,
+Antarctica,0,,,
+Antigua and Barbuda,0,,,
+Argentina,143.67,,,
+Armenia,0,,,
+Aruba,0,,,
+Australia,251.68,,,
+Austria,64.69,,,
+Azerbaijan,29.0326,,,
+Bahamas,0,,,
+Bahrain,0,,,
+Bangladesh,85.23,,,
+Barbados,0,,,
+Belarus,39.64126,,,
+Belgium,94.58,,,
+Belize,0,,,
+Benin,0,,,
+Bermuda,0,,,
+Bhutan,0,,,
+Bolivia,11.27,,,
+Bosnia and Herzegovina,16.24,,,
+Botswana,0,,,
+Bouvet Island,0,,,
+Brazil,680.88,,,
+British Indian Ocean Territory,0,,,
+British Virgin Islands,0,,,
+Brunei,0,,,
+Bulgaria,50.58,,,
+Burkina Faso,0,,,
+Burundi,0.36,,,
+C?te d'Ivoire,0,,,
+Cambodia,0,,,
+Cameroon,0,,,
+Canada,638.42,,,
+Cape Verde,0,,,
+Cayman Islands,0,,,
+Central African Republic,0,,,
+Chad,0,,,
+Chile,83.22,,,
+China,8839.13,,,
+Christmas Island,0,,,
+Cocos [Keeling] Islands,0,,,
+Colombia,84.52,,,
+Comoros,0,,,
+Congo [DRC],0,,,
+Congo [Republic],0,,,
+Cook Islands,0,,,
+Costa Rica,12.63,,,
+Croatia,14.12,,,
+Cuba,0,,,
+Cyprus,5.26,,,
+Czech Republic,85.11,,,
+Denmark,34.42,,,
+Djibouti,0,,,
+Dominica,0,,,
+Dominican Republic,0,,,
+Ecuador,33.12,,,
+Egypt,208.09,,,
+El Salvador,7.62,,,
+Equatorial Guinea,0,,,
+Eritrea,0,,,
+Estonia,8.34,,,
+Ethiopia,0,,,
+Falkland Islands [Islas Malvinas],8.34,,,
+Faroe Islands,0,,,
+Fiji,0,,,
+Finland,72.99,,,
+France,469.48,,,
+French Guiana,0,,,
+French Polynesia,0,,,
+French Southern Territories,0,,,
+Gabon,0,,,
+Gambia,0,,,
+Gaza Strip,0,,,
+Georgia,14.24,,,
+Germany,582.28,,,
+Ghana,0,,,
+Gibraltar,0,,,
+Greece,52.44,,,
+Greenland,0,,,
+Grenada,0,,,
+Guadeloupe,0,,,
+Guam,0,,,
+Guatemala,0,,,
+Guernsey,0,,,
+Guinea,0,,,
+Guinea-Bissau,0,,,
+Guyana,0,,,
+Haiti,0,,,
+Heard Island and McDonald Islands,0,,,
+Honduras,0,,,
+Hong Kong,36.233456,,,
+Hungary,35.52,,,
+Iceland,20.108475,,,
+India,1837.95,,,
+Indonesia,333.54,,,
+Iran,370.81,,,
+Iraq,117.236595,,,
+Ireland,33.61,,,
+Isle of Man,0,,,
+Israel,76.47676,,,
+Italy,278.86,,,
+Jamaica,0,,,
+Japan,966.72,,,
+Jersey,0,,,
+Jordan,0,,,
+Kazakhstan,112.78,,,
+Kenya,12.33,,,
+Kiribati,0,,,
+Kosovo,10.81,,,
+Kuwait,82.95694,,,
+Kyrgyzstan,0,,,
+Laos,0,,,
+Latvia,5.06,,,
+Lebanon,0,,,
+Lesotho,0,,,
+Liberia,0,,,
+Libya,0,,,
+Liechtenstein,0,,,
+Lithuania,4.17,,,
+Luxembourg,1.13,,,
+Macau,0,,,
+Macedonia [FYROM],0,,,
+Madagascar,0,,,
+Malawi,0,,,
+Malaysia,180.51,,,
+Maldives,0,,,
+Mali,0,,,
+Malta,2,,,
+Marshall Islands,0,,,
+Martinique,0,,,
+Mauritania,0,,,
+Mauritius,0,,,
+Mayotte,0,,,
+Mexico,349.5,,,
+Micronesia,0,,,
+Moldova,5.38,,,
+Monaco,0,,,
+Mongolia,7.27,,,
+Montenegro,3.23,,,
+Montserrat,0,,,
+Morocco,41.155945,,,
+Mozambique,0,,,
+Myanmar [Burma],0,,,
+Namibia,0,,,
+Nauru,0,,,
+Nepal,0,,,
+Netherlands,120.89,,,
+Netherlands Antilles,0,,,
+New Caledonia,0,,,
+New Zealand,44.1,,,
+Nicaragua,0,,,
+Niger,0,,,
+Nigeria,32.1,,,
+Niue,0,,,
+Norfolk Island,0,,,
+North Korea,0,,,
+Northern Mariana Islands,6.99,,,
+Norway,152.68,,,
+Oman,37.09,,,
+Pakistan,152.17,,,
+Palau,0,,,
+Palestinian Territories,0,,,
+Panama,0,,,
+Papua New Guinea,0,,,
+Paraguay,0,,,
+Peru,60.27,,,
+Philippines,112.74,,,
+Pitcairn Islands,0,,,
+Poland,179.3,,,
+Portugal,46.96,,,
+Puerto Rico,0,,,
+Qatar,45.9,,,
+R??union,0,,,
+Romania,56.3,,,
+Russia,1114.93,,,
+Rwanda,0,,,
+S?o Tom?? and Pr??ncipe,0,,,
+Saint Helena,0,,,
+Saint Kitts and Nevis,0,,,
+Saint Lucia,0,,,
+Saint Pierre and Miquelon,0,,,
+Saint Vincent and the Grenadines,0,,,
+Samoa,0,,,
+San Marino,0,,,
+Saudi Arabia,401.58832,,,
+Senegal,0,,,
+Serbia,36.18,,,
+Seychelles,0,,,
+Sierra Leone,0,,,
+Singapore,54.79,,,
+Slovakia,26.73,,,
+Slovenia,13.27,,,
+Solomon Islands,0,,,
+Somalia,0,,,
+South Africa,213.6,,,
+South Georgia and the South Sandwich Islands,1410.4108,,,
+South Korea,0,,,
+Spain,284.81,,,
+Sri Lanka,16.923082,,,
+Sudan,0,,,
+Suriname,0,,,
+Svalbard and Jan Mayen,0,,,
+Swaziland,0,,,
+Sweden,171.68,,,
+Switzerland,62.25,,,
+Syria,0,,,
+Taiwan,285.08,,,
+Tajikistan,0,,,
+Tanzania,0,,,
+Thailand,190.88,,,
+Timor-Leste,0,,,
+Togo,0,,,
+Tokelau,0,,,
+Tonga,0,,,
+Trinidad and Tobago,10.165218,,,
+Tunisia,20.28,,,
+Turkey,326.09,,,
+Turkmenistan,31.524,,,
+Turks and Caicos Islands,0,,,
+Tuvalu,0,,,
+U.S. Minor Outlying Islands,0,,,
+U.S. Virgin Islands,0,,,
+Uganda,0,,,
+Ukraine,111.94,,,
+United Arab Emirates,154.74054,,,
+United Kingdom,324.89,,,
+United States of America,4296.88,,,
+Uruguay,14.72,,,
+Uzbekistan,70.9954,,,
+Vanuatu,0,,,
+Vatican City,0,,,
+Venezuela,82.824066,,,
+Vietnam,263.33,,,
+Wallis and Futuna,0,,,
+Western Sahara,0,,,
+Yemen,0,,,
+Zambia,0,,,
+Zimbabwe,0,,,
