@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "Energy produced by countries in 2022 in TWh",
+    "title": "Renewable Energy Production in 2021",
     "width": 800,
     "height": 400,
     "data": {
